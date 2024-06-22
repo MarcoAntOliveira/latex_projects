@@ -1,0 +1,16 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.chromedriver
+*.venv
+*.env
+*.toc
+!requirements.txt
+amb/ 
+aulas/ola_django/blog/
+aulas/ola_django/home
+base/
+static_files/
